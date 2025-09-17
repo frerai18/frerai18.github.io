@@ -1,0 +1,23 @@
+
+body {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    background-color:whitesmoke
+
+}
+h1 {
+    color:rgb(43, 41, 41);
+}
+h2 {
+    color: rgb(92, 89, 89)
+}
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
